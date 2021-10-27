@@ -1,0 +1,28 @@
+/* @theme custom_default */
+
+@import "default";
+
+section {    
+  font-family: "Arial", "Hiragino Kaku Gothic ProN";
+}
+
+section.title h1 {
+  font-size: 2.4em;
+}
+
+section.title {
+  font-size: 22px;
+}
+
+section.slide h2 {
+  font-size: 1.6em;
+}
+
+section.slide {
+  font-size: 20px;
+}
+
+section.lead {
+  justify-content: center;
+  text-align: center;
+}
